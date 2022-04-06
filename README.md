@@ -12,3 +12,5 @@ The a and e key allows to jump diagonally which can be pretty handy in this game
 On this game, we tried to recreate accurately the first few worlds of the original mario bros, I hope you will enjoy it !
 
 PS : At the end Excel is pretty trash as a game enigne but it was funny as hell to make, so do not break your computer because every action takes forever depending on your computer
+
+![image](https://user-images.githubusercontent.com/72990665/161944479-5a444191-3c46-4731-a471-eb22437b0a95.png)
